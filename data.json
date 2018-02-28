@@ -1,0 +1,162 @@
+{
+    "Food with Matt": {
+        "title": "Food with Matt",
+        "category": "Food",
+        "description": "Matt has been eating my snacks withough asking me first and it's really frustrating.",
+        "duration": "2 weeks",
+        "relationship": "Friend",
+        "previous-steps": "None",
+        "frequency": "Daily",
+        "moods": [
+            {
+                "emoji": "Happy.png",
+                "month": "Feb",
+                "day": "01",
+                "comment": "I talked to him today about the issue."
+            },
+            {
+                "emoji": "Angry.png",
+                "month": "Feb",
+                "day": "02",
+                "comment": "His behavior has not changed at all!"
+            },
+            {
+                "emoji": "Unhappy.png",
+                "month": "Feb",
+                "day": "03",
+                "comment": "I just wish he could at least ask me first."
+            },
+            {
+                "emoji": "Meh.png",
+                "month": "Feb",
+                "day": "04",
+                "comment": "He did not it again but he has not talked to me"
+            },
+            {
+                "emoji": "Happy.png",
+                "month": "Feb",
+                "day": "05",
+                "comment": "I talked to him today about the issue."
+            },
+            {
+                "emoji": "Angry.png",
+                "month": "Feb",
+                "day": "06",
+                "comment": "He did it again."
+            },
+            {
+                "emoji": "Unhappy.png",
+                "month": "Feb",
+                "day": "07",
+                "comment": "He cannot take responsibility of his own actions"
+            },
+            {
+                "emoji": "Meh.png",
+                "month": "Feb",
+                "day": "08",
+                "comment": "OMG ITS NOT WORKING!!!!"
+            }
+        ]
+    },
+    "Chores with Rinka": {
+        "title": "Chores with Rinka",
+        "category": "Food",
+        "description": "Just simply tired",
+        "duration": "2 weeks",
+        "relationship": "Friend",
+        "previous-steps": "None",
+        "frequency": "Daily",
+        "moods": [
+            {
+                "emoji": "Unhappy.png",
+                "month": "Dec",
+                "day": "26",
+                "comment": "ASDF"
+            },
+            {
+                "emoji": "Angry.png",
+                "month": 2,
+                "day": 22,
+                "comment": ""
+            },
+            {
+                "emoji": "Crying.png",
+                "month": 2,
+                "day": 22,
+                "comment": "JUST WORK PLZZ"
+            },
+            {
+                "emoji": "Angry.png",
+                "month": 2,
+                "day": 22,
+                "comment": "asdfsadfgaerg"
+            },
+            {
+                "emoji": "Angry.png",
+                "month": 2,
+                "day": 22,
+                "comment": "iiiiiii"
+            },
+            {
+                "emoji": "Unhappy.png",
+                "month": 2,
+                "day": 22,
+                "comment": "asdga"
+            },
+            {
+                "emoji": "Angry.png",
+                "month": 2,
+                "day": 22,
+                "comment": "qre"
+            },
+            {
+                "emoji": "Happy.png",
+                "month": 2,
+                "day": 22,
+                "comment": "ggggg"
+            },
+            {
+                "emoji": "Angry.png",
+                "month": 2,
+                "day": 22,
+                "comment": "asdf"
+            },
+            {
+                "emoji": "Meh.png",
+                "month": 2,
+                "day": 22,
+                "comment": "whyyyyy"
+            },
+            {
+                "emoji": "Angry.png",
+                "month": 2,
+                "day": 22,
+                "comment": ""
+            },
+            {
+                "emoji": "Unhappy.png",
+                "month": 2,
+                "day": 22,
+                "comment": ""
+            },
+            {
+                "emoji": "Unhappy.png",
+                "month": 2,
+                "day": 27,
+                "comment": ""
+            },
+            {
+                "emoji": "Angry.png",
+                "month": 2,
+                "day": 27,
+                "comment": ""
+            },
+            {
+                "emoji": "Crying.png",
+                "month": 2,
+                "day": 27,
+                "comment": ""
+            }
+        ]
+    }
+}

@@ -1,0 +1,85 @@
+<html>
+<head>
+	<title>Home</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="../css/newHome.css">
+    <script src="../js/jquery-1.11.0.js"></script>
+
+<script>/*
+	$(function(){
+		console.log("start");
+		$('#addCSS').each(function() {
+			var text = $(this).next('.mood-title').text();
+			console.log(text);
+			if (text == "IN PROGRESS"){
+			$('#addCSS').addClass('in-progress');
+			}
+			else {
+			$('#addCSS').addClass('task-complete');
+			}
+		});
+		console.log("end");
+	});*/
+</script>
+
+</head>
+<body style="margin: 0;">
+
+	<div class="icon-bar">
+		<h2>COMMON GROUND</h2>
+	</div>
+
+	<div class="main-content-area">
+		<div class="new-issue">
+      <a href="./newIssue">
+        <button class="filled-in">Create New Issue</button>
+      </a>
+		</div>
+		<div class="title-text-area">
+			<div class="list-title">Task List</div>
+		</div>
+		<table>
+			{{#each objects}}
+			<tr><td>
+				<div class="section-title">{{title}}</div>
+
+				<div id="addCSS">
+					<div class="task-complete">
+			        <div class="mood-title">{{status}}</div>
+				</div>
+  			</td></tr>
+    		{{/each}}
+
+  		<!--
+			<tr>
+    		<td>
+					<div class="section-title">Cleaning with Jeff</div>
+					<div class="task-complete">
+					<div class="in-progress">
+			      <div class="text-area">
+			        <div class="mood-title">COMPLETED</div>
+			    	</div>
+					</div>
+    		</td>
+  		</tr>-->
+
+		</table>
+	</div>
+
+
+
+<!--
+	<a href="/signup">
+		<button class="filled-in">Create New Issue</button>
+	</a>
+
+	<h1>Task List</h1>
+	<div class="task-list">
+		<h3>Food with Matt</h3>
+	</div>
+
+-->
+
+</body>
+</html>
